@@ -26,7 +26,7 @@ You can search by book title and instantly view results.
 ## ⚙️ How to Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/parashuram-konkeni/book-search-app.git
+git clone https://github.com/parashuram-konkeri/book-search-app.git
 
 # Navigate into the project
 cd book-search-app
