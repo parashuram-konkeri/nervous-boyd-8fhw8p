@@ -38,7 +38,7 @@ npm install
 npm start
 
 Video Demo
-(Link: C:\Users\Parashuram B Konkeri.DESKTOP-CF9O009\Videos\Captures)
+(Link: (https://drive.google.com/file/d/1aW-u181Xomgk7hL_aj6skUlBU7v-8zZP/view?usp=sharing))
 
 In this video, I demonstrate the Book Finder App:
 Searching books by title using the Open Library API
